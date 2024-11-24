@@ -110,15 +110,17 @@ footer > div {
     width: 30%;
 }
 
+.footer-links > li {
+    padding-bottom: 5px;
+}
+
 .footer-link {
     color: #939393;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 100;
-
 }
 
 .footer-link:hover {
-    /* border-bottom-color: #939393; */
     text-decoration: underline;
 }
 
